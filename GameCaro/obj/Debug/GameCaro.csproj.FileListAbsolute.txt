@@ -1,0 +1,13 @@
+D:\LapTrinhGiaoDien\GameCaro\GameCaro\GameCaro\bin\Debug\GameCaro.exe
+D:\LapTrinhGiaoDien\GameCaro\GameCaro\GameCaro\bin\Debug\GameCaro.exe.config
+D:\LapTrinhGiaoDien\GameCaro\GameCaro\GameCaro\obj\Debug\GameCaro.csproj.AssemblyReference.cache
+D:\LapTrinhGiaoDien\GameCaro\GameCaro\GameCaro\obj\Debug\GameCaro.Form0.resources
+D:\LapTrinhGiaoDien\GameCaro\GameCaro\GameCaro\obj\Debug\GameCaro.Form1.resources
+D:\LapTrinhGiaoDien\GameCaro\GameCaro\GameCaro\obj\Debug\GameCaro.Form2.resources
+D:\LapTrinhGiaoDien\GameCaro\GameCaro\GameCaro\obj\Debug\GameCaro.Properties.Resources.resources
+D:\LapTrinhGiaoDien\GameCaro\GameCaro\GameCaro\obj\Debug\GameCaro.csproj.GenerateResource.cache
+D:\LapTrinhGiaoDien\GameCaro\GameCaro\GameCaro\obj\Debug\GameCaro.csproj.CoreCompileInputs.cache
+D:\LapTrinhGiaoDien\GameCaro\GameCaro\GameCaro\obj\Debug\GameCaro.exe
+D:\LapTrinhGiaoDien\GameCaro\GameCaro\GameCaro\obj\Debug\GameCaro.pdb
+D:\LapTrinhGiaoDien\GameCaro\GameCaro\GameCaro\bin\Debug\GameCaro.pdb
+D:\LapTrinhGiaoDien\GameCaro\GameCaro\GameCaro\obj\Debug\GameCaro.InputName.resources

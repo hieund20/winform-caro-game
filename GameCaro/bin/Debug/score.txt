@@ -1,0 +1,15 @@
+Điểm của Player1: 1
+Điểm của Player2: 0
+----------------
+Điểm của Player1: 0
+Điểm của Player2: 1
+----------------
+Điểm của Player1: 1
+Điểm của Player2: 0
+----------------
+Điểm của Player1: 1
+Điểm của Player2: 0
+----------------
+Điểm của Hiếu: 1
+Điểm của Hoàng: 0
+----------------
